@@ -1,0 +1,29 @@
+{
+	"nationwide":{
+		"service_customer_amount" : "235272",
+		"nanjing_service_customer_amount" : "104722", 
+		"shanghai_service_customer_amount" : "97500",
+		"wuxi_service_customer_amount" : "13000",
+		"beijing_service_customer_amount" : "9050", 
+		"wuhan_service_customer_amount" : "6628",
+		"qiqihaer_service_customer_amount" : "4372"
+	},
+	"wuxi":{
+	    "day_receive_alert_times":"5",
+	    "service_customer_amount" : "13000",
+	    "workstation_amount" : "9",
+	    "helper_amount" : "10"
+	},
+	"nanjing":{
+	    "day_receive_alert_times":"7",
+	    "service_customer_amount" : "104722",
+	    "workstation_amount" : "9",
+	    "helper_amount" : "20"
+	},	
+	"shanghai":{
+	    "day_receive_alert_times":"21",
+	    "service_customer_amount" : "97500",
+	    "workstation_amount" : "11",
+	    "helper_amount" : "37"
+	}
+}		
